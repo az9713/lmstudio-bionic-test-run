@@ -20,7 +20,6 @@ Both links are hosted on claude.ai and are private to the account that published
 
 ```
 README.md              this file
-README.txt             original source notes the run started from
 walkthrough.html        the click-by-click setup guide (self-contained, screenshots inlined)
 journey.html            the run log / case study (self-contained, screenshots inlined)
 drive.js                the Playwright/CDP driver script used to automate Bionic's UI
