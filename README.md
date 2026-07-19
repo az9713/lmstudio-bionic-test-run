@@ -13,8 +13,9 @@ A record of setting up [LM Studio Bionic](https://lmstudio.ai/docs/bionic) with 
 |---|---|
 | 📘 **[Setup walkthrough](https://claude.ai/code/artifact/49ad7122-6c57-4d94-8a88-60636299224b)** | Click-by-click guide with real screenshots — follow this to set up Bionic yourself. |
 | 🛰️ **[Run log: Brief to Proof](https://claude.ai/code/artifact/4f661f3d-ac70-404c-b3bf-82438eb455d8)** | How the session actually did it — tool decisions, obstacles, and the CDP/Playwright automation, phase by phase. |
+| 🎥 **["LM Studio Bionic: Claude Code for Open-Weight Models? (First Look)"](https://www.youtube.com/watch?v=XIqG-aicq6A&t=124s)** | A deeper dive into the Bionic tool itself, on video. |
 
-Both links are hosted on claude.ai and are private to the account that published them. Local copies of the same pages ([`walkthrough.html`](walkthrough.html), [`journey.html`](journey.html)) are included in this repo — open them directly in a browser, no server required.
+Both artifact links are hosted on claude.ai and are private to the account that published them. Local copies of the same pages ([`walkthrough.html`](walkthrough.html), [`journey.html`](journey.html)) are included in this repo — open them directly in a browser, no server required.
 
 ## What's in here
 
